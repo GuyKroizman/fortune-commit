@@ -100,18 +100,10 @@ class PluginProvider : CommitMessageProvider {
         The scene is dull . Tell him to put more life into his dying .
         --Samuel Goldwyn
         """.trimIndent(),
-                """
-        Thank God I'm an atheist.
-        """.trimIndent(),
-                """
-        This report is filled with omissions .
-        """.trimIndent(),
-                """
-        We are not anticipating any emergencies .
-        """.trimIndent(),
-                """
-        We're overpaying him, but he's worth it.-Samuel Goldwyn
-        """.trimIndent(),
+                "Thank God I'm an atheist.",
+                "This report is filled with omissions.",
+                "We are not anticipating any emergencies.",
+                "We're overpaying him, but he's worth it. -Samuel Goldwyn",
                 """
         His honour rooted in dishonour stood,
         And faith unfaithful kept him falsely true.
@@ -121,15 +113,9 @@ class PluginProvider : CommitMessageProvider {
         The good oxymoron, to define it by a self-illustration, must be a
         planned inadvertency . - Wilson Follett
         """.trimIndent(),
-                """
-        An Irishman is never at peace except when he 's fighting.
-        """.trimIndent(),
-                """
-        I marvel at the strength of human weakness .
-        """.trimIndent(),
-                """
-        Always be sincere, even when you don't mean it. -Irene Peter
-        """.trimIndent(),
+                "An Irishman is never at peace except when he 's fighting.",
+                "I marvel at the strength of human weakness.",
+                "Always be sincere, even when you don't mean it. -Irene Peter",
                 """
         Live within your income, even if you have to borrow to do so.
         --Josh Billings
@@ -138,31 +124,17 @@ class PluginProvider : CommitMessageProvider {
         Of course I can keep secrets . It 's the people I tell them to that
         can't keep them. -Anthony Haden-Guest
         """.trimIndent(),
-                """
-        The best cure for insomnia is to get a lot of sleep . - W.C.Fields
-        """.trimIndent(),
-                """
-        I distinctly remember forgetting that.- Clara Barton
-""".trimIndent(),
-                """
-        We must believe in free will . We have no choice.- Isaac B.Singer
-""".trimIndent(),
-                """
-        I'd give my right arm to be ambidextrous.
-""".trimIndent(),
-                """
-        Monotheism is a gift from the gods.
-""".trimIndent(),
+                "The best cure for insomnia is to get a lot of sleep . - W.C.Fields",
+                "I distinctly remember forgetting that. - Clara Barton",
+                "We must believe in free will . We have no choice.- Isaac B.Singer",
+                "I'd give my right arm to be ambidextrous.",
+                "Monotheism is a gift from the gods.",
                 """
         After they got rid of capital punishment, they had to hang twice
         as many people as before .
 """.trimIndent(),
-                """
-        I never liked you, and I always will.-Samuel Goldwyn
-""".trimIndent(),
-                """
-        Why don 't you pair `em up in threes? -Yogi Berra
-""".trimIndent(),
+                "I never liked you, and I always will. -Samuel Goldwyn",
+                "Why don 't you pair `em up in threes? -Yogi Berra",
                 """
         Our similarities are different . - Dale Berra, son of Yogi
 """.trimIndent(),
@@ -198,15 +170,9 @@ class PluginProvider : CommitMessageProvider {
         She used to diet on any kind of food she could lay her hands on.
         --Arthur Baer, American comic and columnist
 """.trimIndent(),
-                """
-        The first condition of immortality is death. -Stanislaw Lec
-""".trimIndent(),
-                """
-        As famous as the unknown soldier .
-""".trimIndent(),
-                """
-        I must follow the people.Am I not their leader?-Benjamin Disraeli
-""".trimIndent(),
+                "The first condition of immortality is death. -Stanislaw Lec",
+                "As famous as the unknown soldier.",
+                "I must follow the people. Am I not their leader? -Benjamin Disraeli",
                 """
         Hegel was right when he said that we learn from history that man
                 can never learn anything from history . - George Bernard Shaw
@@ -224,25 +190,15 @@ class PluginProvider : CommitMessageProvider {
         Also, avoid awkward or affected alliteration.
         Last, but not least, avoid cliches like the plague.
 """.trimIndent(),
-                """
-        Everyone writes on the walls except me.- Said to be graffiti seen in Pompeii
-""".trimIndent(),
-                """
-        I tripped over a hole that was sticking up out of the ground.
-""".trimIndent(),
+                "Everyone writes on the walls except me.- Said to be graffiti seen in Pompeii",
+                "I tripped over a hole that was sticking up out of the ground.",
                 """
         I don 't think anyone should write their autobiography until after
         they're dead. -Samuel Goldwyn
 """.trimIndent(),
-                """
-        This page intentionally left blank.
-""".trimIndent(),
-                """
-        Evil isn 't all bad.
-""".trimIndent(),
-                """
-        I disagree with unanimity .
-""".trimIndent(),
+                "This page intentionally left blank.",
+                "Evil isn 't all bad.",
+                "I disagree with unanimity.",
                 """
         "It's a step forward although there was no progress."
         President Hosni Murbarak of Egypt attempting to put the best face
@@ -254,15 +210,9 @@ class PluginProvider : CommitMessageProvider {
         to prophesy after the event has already taken place." - Winston
         Churchill
 """.trimIndent(),
-                """
-        All truths are true to an extend, including this one.-XA
-""".trimIndent(),
-                """
-        Assume a virtue, if you have it not.-William Shakespeare
-""".trimIndent(),
-                """
-        All generalisations are dangerous, including this one.
-""".trimIndent(),
+                "All truths are true to an extend, including this one.-XA",
+                "Assume a virtue, if you have it not. -William Shakespeare",
+                "All generalisations are dangerous, including this one.",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
