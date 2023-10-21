@@ -175,8 +175,7 @@ class PluginProvider : CommitMessageProvider {
                 "I must follow the people. Am I not their leader? -Benjamin Disraeli",
                 """
         Hegel was right when he said that we learn from history that man
-                can never learn anything from history . - George Bernard Shaw
-""".trimIndent(),
+         can never learn anything from history . - George Bernard Shaw""".trimIndent(),
                 """
         William Safire 's rules for writing as seen in the New York Times
 
