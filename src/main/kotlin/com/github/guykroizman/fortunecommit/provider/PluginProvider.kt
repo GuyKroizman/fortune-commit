@@ -6,9 +6,9 @@ import com.intellij.openapi.vcs.changes.ui.CommitMessageProvider
 import kotlin.random.Random
 
 class PluginProvider : CommitMessageProvider {
-    override fun getCommitMessage(forChangelist: LocalChangeList, project: Project): String? {
+    override fun getCommitMessage(forChangelist: LocalChangeList, project: Project): String {
 
-        var paradoxum = listOf(
+        val paradoxum = listOf(
                 "A little pain never hurt anyone.",
                 """
         A unified, neutral Germany? Given that nation's heritage, such a
