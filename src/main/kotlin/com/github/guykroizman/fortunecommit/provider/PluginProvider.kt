@@ -219,7 +219,18 @@ class PluginProvider : CommitMessageProvider {
                 "I found freedom. Losing all hope is was freedom. - Fight Club",
                 "I flipped through catalogs and wondered, what kind of dining set defines me as a person? - Fight Club",
                 "If you died right now, how would you feel about your life? - Tyler Durden",
-                "Listen up, maggots. You are not special. You are not a beautiful or unique snowflake. You are the same decaying organic matter as everything else. - Tyler Durden"
+                "Listen up, maggots. You are not special. You are not a beautiful or unique snowflake. You are the same decaying organic matter as everything else. - Tyler Durden",
+                "I love deadlines. I love the whooshing noise they make as they go by. - Douglas Adams, The Salmon of Doubt",
+                """The story so far
+                   In the beginning the Universe was created. 
+                   This has made a lot of people very angry and been widely regarded as a bad move. - Douglas Adams, The Restaurant at the End of the Universe""".trimIndent(),
+                "The Guide says there is an art to flying\", said Ford, \"or rather a knack. The knack lies in learning how to throw yourself at the ground and miss. - Douglas Adams, Life, the Universe and Everything",
+                "Time is an illusion. Lunchtime doubly so. - Douglas Adams, The Hitchhiker's Guide to the Galaxy",
+                "The ships hung in the sky in much the same way that bricks don't. - Douglas Adams, The Hitchhiker's Guide to the Galaxy",
+                "For a moment, nothing happened. Then, after a second or so, nothing continued to happen. - Douglas Adams, The Hitchhiker's Guide to the Galaxy",
+                "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools. - Douglas Adams, Mostly Harmless",
+                "I'd far rather be happy than right any day. - Douglas Adams, The Hitchhiker's Guide to the Galaxy",
+                "The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong it usually turns out to be impossible to get at or repair. - Douglas Adams, Mostly Harmless",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
