@@ -1,8 +1,8 @@
 # fortune-commit
 
 ![Build](https://github.com/GuyKroizman/fortune-commit/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/22985.svg)](https://plugins.jetbrains.com/plugin/22985)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22985.svg)](https://plugins.jetbrains.com/plugin/22985)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22985-fortune-commit.svg)](https://plugins.jetbrains.com/plugin/22985-fortune-commit)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22985-fortune-commit.svg)](https://plugins.jetbrains.com/plugin/22985-fortune-commit)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
