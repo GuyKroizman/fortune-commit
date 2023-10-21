@@ -9,10 +9,6 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.guykroizman.fortunecommit.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <vcs.commitMessageProvider implementation="com.github.guykroizman.fortunecommit.provider.PluginProvider"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.guykroizman.fortunecommit.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>
