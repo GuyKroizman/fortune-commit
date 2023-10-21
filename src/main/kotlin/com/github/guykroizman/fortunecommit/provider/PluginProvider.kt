@@ -196,7 +196,7 @@ class PluginProvider : CommitMessageProvider {
         they're dead. -Samuel Goldwyn
 """.trimIndent(),
                 "This page intentionally left blank.",
-                "Evil isn 't all bad.",
+                "Evil isn't all bad.",
                 "I disagree with unanimity.",
                 """
         "It's a step forward although there was no progress."
@@ -212,6 +212,14 @@ class PluginProvider : CommitMessageProvider {
                 "All truths are true to an extend, including this one.-XA",
                 "Assume a virtue, if you have it not. -William Shakespeare",
                 "All generalisations are dangerous, including this one.",
+                "The word will remain big no matter how much you explore it - Evyatar Kroizman",
+                "This is your life, and it's ending one minute at a time. - Fight Club",
+                "The things you own end up owning you. - Fight Club",
+                "Hitting bottom is not a weekend retreat. It's not a goddamn seminar. Stop trying to control everything, and just let go. Let go! - Tyler Durden",
+                "I found freedom. Losing all hope is was freedom. - Fight Club",
+                "I flipped through catalogs and wondered, what kind of dining set defines me as a person? - Fight Club",
+                "If you died right now, how would you feel about your life? - Tyler Durden",
+                "Listen up, maggots. You are not special. You are not a beautiful or unique snowflake. You are the same decaying organic matter as everything else. - Tyler Durden"
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
