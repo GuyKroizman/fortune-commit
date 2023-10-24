@@ -115,14 +115,14 @@ tasks {
     }
 
     signPlugin {
-        certificateChain = environment("CERTIFICATE_CHAIN")
-        privateKey = environment("PRIVATE_KEY")
-        password = environment("PRIVATE_KEY_PASSWORD")
+        certificateChain.set(file("certificate/chain.crt").readText().trim())
+        privateKey.set(file("certificate/private.pem").readText().trim())
+        password.set(file("certificate/password.txt").readText().trim())
     }
 
     publishPlugin {
         dependsOn("patchChangelog")
-        token = environment("PUBLISH_TOKEN")
+        token = environment("fortune-commit-private-access-token")
         // The pluginVersion is based on the SemVer (https://semver.org) and supports pre-release labels, like 2.1.7-alpha.3
         // Specify pre-release label to publish the plugin in a custom Release Channel automatically. Read more:
         // https://plugins.jetbrains.com/docs/intellij/deployment.html#specifying-a-release-channel
