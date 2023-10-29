@@ -162,6 +162,10 @@ class PluginProvider : CommitMessageProvider {
             "A good programmer is someone who always looks both ways before crossing a one-way street. - Doug Linder",
             "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Martin Golding",
             "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler",
+            "If you are afraid to change something it is clearly poorly designed. - Martin Fowler",
+            "Premature optimization is the root of all evil. - C. A. R. Hoare",
+            "Make it work, make it right, make it fast. - Kent Beck",
+            "If the only tool you have is a hammer, you tend to see every problem as a nail. - Abraham Maslow",
             "Computers are good at following instructions, but not at reading your mind. - Donald Knuth",
             "First, solve the problem. Then, write the code. - John Johnson",
             "If you automate a mess, you get an automated mess. - Rod Michael",
@@ -206,6 +210,10 @@ class PluginProvider : CommitMessageProvider {
             "I am not afraid of death; I just don't want to be there when it happens. - Woody Allen",
             "I don't want to achieve immortality through my work; I want to achieve immortality through not dying. - Woody Allen",
             "I am thankful for laughter, except when milk comes out of my nose. - Woody Allen",
+            "Your highest-value developers are 10x by enabling other developers. - Dan Terhorst-North",
+            "With Nine women you can make a baby a month. Wernher von Braun",
+            "What one programmer can do in one month, two programmers can do in two months. Fred Brooks",
+            "Adding manpower to a late software project makes it later. Fred Brooks",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
