@@ -18,16 +18,9 @@ class PluginProvider : CommitMessageProvider {
         Honk if you are against noise pollution!
         """.trimIndent(),
             "I'll give you a definite maybe. -Samuel Goldwyn",
-            """I'm not going to say, "I told you so.""",
-            "I am a deeply superficial person . - Andy Warhol",
+            "I am a deeply superficial person. - Andy Warhol",
             "I'm proud of my humility.",
             "I can resist everything except temptation . - Oscar Wilde",
-            """If Roosevelt were alive, he'd turn over in his grave. 
-                -Samuel Goldwyn""".trimIndent(),
-            """
-        If I could drop dead right now, I'd be the happiest man alive!
-        --Samuel Goldwyn
-        """.trimIndent(),
             """
         It isn't an optical illusion. It just looks like one.
         """.trimIndent(),
@@ -38,36 +31,11 @@ class PluginProvider : CommitMessageProvider {
         No one goes to that restaurant anymore - it's always too crowded.
         (attributed to Yogi Berra)
         """.trimIndent(),
-            """
-        Parting is such sweet sorrow.-William Shakespeare
-        """.trimIndent(),
-            """
-        Procrastination means never having to say you're sorry.
-        """.trimIndent(),
-            """
-        The scene is dull . Tell him to put more life into his dying .
-        --Samuel Goldwyn
-        """.trimIndent(),
             "Thank God I'm an atheist.",
             "This report is filled with omissions.",
             "We are not anticipating any emergencies.",
             "We're overpaying him, but he's worth it. -Samuel Goldwyn",
-            """
-        His honour rooted in dishonour stood,
-        And faith unfaithful kept him falsely true.
-        --Alfred Lord Tennyson
-        """.trimIndent(),
-            """
-        The good oxymoron, to define it by a self-illustration, must be a
-        planned inadvertency . - Wilson Follett
-        """.trimIndent(),
-            "An Irishman is never at peace except when he 's fighting.",
-            "I marvel at the strength of human weakness.",
             "Always be sincere, even when you don't mean it. -Irene Peter",
-            """
-        Live within your income, even if you have to borrow to do so.
-        --Josh Billings
-        """.trimIndent(),
             """
         Of course I can keep secrets . It 's the people I tell them to that
         can't keep them. -Anthony Haden-Guest
@@ -78,35 +46,13 @@ class PluginProvider : CommitMessageProvider {
             "I'd give my right arm to be ambidextrous.",
             "Monotheism is a gift from the gods.",
             "I never liked you, and I always will. -Samuel Goldwyn",
-            "Why don 't you pair `em up in threes? -Yogi Berra",
-            """
-        Our similarities are different . - Dale Berra, son of Yogi
-""".trimIndent(),
             """
         After Donald Trump's stretch limousine was stolen and found
         undamaged a few blocks away; he said, "Nothing was stolen. I had
         an honest thief."-International Herald Tribune, page 3, March 2,
         1992
-""".trimIndent(),
-            """
-        Most bacteria have the decency to be microscopic . Epulopiscium
-                fishelsoni is not among them. The newly identified one-celled
-        macro - microorganism is a full .5 mm long, large enough to be seen
-        with the naked eye . Described in the current Nature, "It is a
-        million times as massive as a typical bacterium ."-Time, page 25,
-        March 29, 1993
-""".trimIndent(),
-            "The first condition of immortality is death. -Stanislaw Lec",
-            "As famous as the unknown soldier.",
-            "I must follow the people. Am I not their leader? -Benjamin Disraeli",
-            """
-        Hegel was right when he said that we learn from history that man
-         can never learn anything from history . - George Bernard Shaw""".trimIndent(),
+        """.trimIndent(),
             "I tripped over a hole that was sticking up out of the ground.",
-            """
-        I don 't think anyone should write their autobiography until after
-        they're dead. -Samuel Goldwyn
-""".trimIndent(),
             "This page intentionally left blank.",
             "Evil isn't all bad.",
             """
