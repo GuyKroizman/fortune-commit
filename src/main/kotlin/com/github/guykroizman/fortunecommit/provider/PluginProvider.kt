@@ -160,6 +160,7 @@ class PluginProvider : CommitMessageProvider {
             "With Nine women you can make a baby a month. Wernher von Braun",
             "What one programmer can do in one month, two programmers can do in two months. Fred Brooks",
             "Adding manpower to a late software project makes it later. Fred Brooks",
+            "Even a Broken Clock Is Right Twice a Day. - Person looking at your PR",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
