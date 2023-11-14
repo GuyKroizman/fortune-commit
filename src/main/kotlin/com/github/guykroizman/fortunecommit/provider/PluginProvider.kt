@@ -127,6 +127,7 @@ class PluginProvider : CommitMessageProvider {
             "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read. - Robert C. Martin",
             "Teaching co-workers something over lunch? Record your screen as you do it and put that up on YouTube. - Kent C. Dodds",
             "Nobody wants to work with someone who's unkind. - Kent C. Dodds",
+            "Neither spaces nor tabs is the answer. The answer is just use your IDE defaults and move on. - Guy Kroizman"
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
