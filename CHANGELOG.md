@@ -2,6 +2,8 @@
 
 # fortune-commit Changelog
 
-## [Unreleased]
+## [1.0.4] - 2023-12-14
+
 ### Added
 
+- Added some David Allen quotes and others

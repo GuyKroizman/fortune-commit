@@ -127,7 +127,14 @@ class PluginProvider : CommitMessageProvider {
             "So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read. - Robert C. Martin",
             "Teaching co-workers something over lunch? Record your screen as you do it and put that up on YouTube. - Kent C. Dodds",
             "Nobody wants to work with someone who's unkind. - Kent C. Dodds",
-            "Neither spaces nor tabs is the answer. The answer is just use your IDE defaults and move on. - Guy Kroizman"
+            "Neither spaces nor tabs is the answer. The answer is just use your IDE defaults and move on. - Guy Kroizman",
+            "The tragedy of old age is not that one is old, but that one is young. - Oscar Wilde",
+            "The youth is wasted on the young. - George Bernard Shaw",
+            "Your mind if for having ideas, not holding them. - David Allen",
+            "If you don't pay appropriate attention to what has your attention, it will take more of your attention than it deserves. - David Allen",
+            "Much of the stress people feel doesn't come from having too much to do. It comes from not finishing what they've started. - David Allen",
+            "You can fool everyone else, but you can't fool your own mind. - David Allen",
+            "There is no reason to ever have the same thought twice, unless you like having that thought. - David Allen",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
