@@ -69,7 +69,6 @@ class PluginProvider : CommitMessageProvider {
             "All truths are true to an extend, including this one.-XA",
             "Assume a virtue, if you have it not. -William Shakespeare",
             "All generalisations are dangerous, including this one.",
-            "The word will remain big no matter how much you explore it - Evyatar Kroizman",
             "This is your life, and it's ending one minute at a time. - Fight Club",
             "The things you own end up owning you. - Fight Club",
             "Hitting bottom is not a weekend retreat. It's not a goddamn seminar. Stop trying to control everything, and just let go. Let go! - Tyler Durden",
@@ -135,6 +134,8 @@ class PluginProvider : CommitMessageProvider {
             "Much of the stress people feel doesn't come from having too much to do. It comes from not finishing what they've started. - David Allen",
             "You can fool everyone else, but you can't fool your own mind. - David Allen",
             "There is no reason to ever have the same thought twice, unless you like having that thought. - David Allen",
+            "If you are not fired with enthusiasm, you will be fired with enthusiasm. - Vince Lombardi",
+            "It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it. - John Steinbeck",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
