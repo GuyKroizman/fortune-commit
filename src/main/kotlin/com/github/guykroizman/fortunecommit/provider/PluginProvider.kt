@@ -136,6 +136,7 @@ class PluginProvider : CommitMessageProvider {
             "There is no reason to ever have the same thought twice, unless you like having that thought. - David Allen",
             "If you are not fired with enthusiasm, you will be fired with enthusiasm. - Vince Lombardi",
             "It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it. - John Steinbeck",
+            "If debugging is the process of removing software bugs, then programming must be the process of putting them in - Edsger Dijkstra",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
