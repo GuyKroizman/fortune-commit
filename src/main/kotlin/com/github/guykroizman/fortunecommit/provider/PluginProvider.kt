@@ -117,6 +117,12 @@ class PluginProvider : CommitMessageProvider {
             "When I wrote this code, only God and I understood what I did. Now only God knows. - Anonymous",
             "There is always one more bug to fix - Ellen Ullman",
             "Talk is cheap. Show me the code. - Linus Torvalds",
+            "Avoiding complexity reduces bugs. - Linus Torvalds",
+            "Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing. - Linus Torvalds",
+            "Backups are for wimps. Real men upload their data to an FTP site and have everyone else mirror it. - Linus Torvalds",
+            "An infinite number of monkeys typing into GNU emacs would never make a good program. - Linus Torvalds",
+            "I started Linux as a desktop operating system. And it’s the only area where Linux hasn’t completely taken over. That just annoys the hell out of me. - Linus Torvalds",
+            "See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too. - Linus Torvalds",
             "Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV. - Morty",
             "Sometimes programming is more like art than engineering. - John Carmack",
             "The cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don't fight each other. - John Carmack",
@@ -136,6 +142,7 @@ class PluginProvider : CommitMessageProvider {
             "There is no reason to ever have the same thought twice, unless you like having that thought. - David Allen",
             "If you are not fired with enthusiasm, you will be fired with enthusiasm. - Vince Lombardi",
             "It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it. - John Steinbeck",
+            "A complex system that works is invariably found to have evolved from a simple system that worked. - John Gall",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
