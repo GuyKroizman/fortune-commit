@@ -143,6 +143,7 @@ class PluginProvider : CommitMessageProvider {
             "If you are not fired with enthusiasm, you will be fired with enthusiasm. - Vince Lombardi",
             "It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it. - John Steinbeck",
             "A complex system that works is invariably found to have evolved from a simple system that worked. - John Gall",
+            "Tests don't die, they are changed to 'skip'. - Shelly Goldblit"
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
