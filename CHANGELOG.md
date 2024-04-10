@@ -3,7 +3,13 @@
 # fortune-commit Changelog
 
 ## [Unreleased]
+## [1.0.6] - 2023-04-10
 
+### Added
+
+- a few quotes.
+- fix plugin property to limit version compatibility
+ 
 ## [1.0.5] - 2023-12-14
 
 ### Added

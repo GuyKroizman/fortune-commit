@@ -143,7 +143,14 @@ class PluginProvider : CommitMessageProvider {
             "If you are not fired with enthusiasm, you will be fired with enthusiasm. - Vince Lombardi",
             "It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it. - John Steinbeck",
             "A complex system that works is invariably found to have evolved from a simple system that worked. - John Gall",
-            "Tests don't die, they are changed to 'skip'. - Shelly Goldblit"
+            "Tests don't die, they are changed to 'skip'. - Shelly Goldblit",
+            "Java is to JavaScript what Car is to Carpet. - Chris Heilmann",
+            "JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it. - Douglas Crockford",
+            "In JavaScript there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders. - Douglas Crockford",
+            "Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts. - Douglas Crockford",
+            "It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading. - Douglas Crockford",
+            "People who use Class will never understand all the crap they are doing. - Douglas Crockford",
+            "The long-term value of software to an organization is in direct proportion to the quality of the codebase. - Douglas Crockford",
         )
         val randomIndex = Random.nextInt(paradoxum.size)
 
