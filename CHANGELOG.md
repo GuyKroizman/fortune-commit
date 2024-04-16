@@ -31,7 +31,8 @@
 
 - Added some David Allen quotes and others
 
-[Unreleased]: https://github.com/GuyKroizman/fortune-commit/compare/v1.0.6...HEAD
+[Unreleased]: https://github.com/GuyKroizman/fortune-commit/compare/v1.0.7...HEAD
+[1.0.7]: https://github.com/GuyKroizman/fortune-commit/compare/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/GuyKroizman/fortune-commit/compare/v1.0.4...v1.0.6
 [1.0.5]: https://github.com/GuyKroizman/fortune-commit/commits/v1.0.5
 [1.0.4]: https://github.com/GuyKroizman/fortune-commit/commits/v1.0.4
